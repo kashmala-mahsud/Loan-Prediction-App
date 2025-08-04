@@ -77,10 +77,6 @@ The prediction model uses the following features:
 - Pandas
 - Joblib
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 Made with ❤️ by [Kashmala Mahsud]
